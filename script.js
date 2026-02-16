@@ -3,14 +3,14 @@
 const coursesData = {
     courses: [
         {
-            id: 2,
+            id: 1,
             name: "Álgebra",
             description: "Expresiones algebraicas, ecuaciones, funciones y polinomios.",
             icon: "fas fa-square-root-alt",
             color: "#e63946"
         },
         {
-            id: 1,
+            id: 2,
             name: "Aritmética",
             description: "Números, operaciones básicas, fracciones, decimales y más.",
             icon: "fas fa-calculator",
@@ -24,98 +24,98 @@ const coursesData = {
             color: "#2a9d8f"
         },
         {
-            id: 17,
+            id: 4,
             name: "Economía",
             description: "Sistemas económicos, oferta y demanda, mercado y finanzas.",
             icon: "fas fa-chart-line",
             color: "#2d6a4f"
         },
         {
-            id: 4,
+            id: 5,
             name: "Física",
             description: "Movimiento, fuerzas, energía, ondas y electricidad.",
             icon: "fas fa-atom",
             color: "#9d4edd"
         },
         {
-            id: 5,
+            id: 6,
             name: "Geografía",
             description: "Relieve, clima, recursos naturales y cartografía.",
             icon: "fas fa-globe-americas",
             color: "#40916c"
         },
         {
-            id: 6,
+            id: 7,
             name: "Geometría",
             description: "Figuras geométricas, medición, propiedades y transformaciones.",
             icon: "fas fa-draw-polygon",
             color: "#3a86ff"
         },
         {
-            id: 7,
+            id: 8,
             name: "Historia del Perú",
             description: "Culturas preincas, imperio inca, conquista y república.",
             icon: "fas fa-landmark",
             color: "#dda15e"
         },
         {
-            id: 8,
+            id: 9,
             name: "Historia Universal",
             description: "Edades históricas, guerras mundiales y civilizaciones antiguas.",
             icon: "fas fa-monument",
             color: "#bc6c25"
         },
         {
-            id: 9,
+            id: 10,
             name: "Inglés",
             description: "Gramática, vocabulario, comprensión auditiva y conversación.",
             icon: "fas fa-language",
             color: "#7209b7"
         },
         {
-            id: 10,
+            id: 11,
             name: "Lenguaje",
             description: "Gramática, comunicación, comprensión lectora y redacción.",
             icon: "fas fa-spell-check",
             color: "#3a86ff"
         },
         {
-            id: 11,
+            id: 12,
             name: "Literatura",
             description: "Géneros literarios, autores, obras y análisis textual.",
             icon: "fas fa-book-open",
             color: "#8338ec"
         },
         {
-            id: 12,
+            id: 13,
             name: "Psicología",
             description: "Procesos mentales, emociones, desarrollo humano y conducta.",
             icon: "fas fa-brain",
             color: "#ff006e"
         },
         {
-            id: 13,
+            id: 14,
             name: "Química",
             description: "Elementos, compuestos, reacciones y tabla periódica.",
             icon: "fas fa-flask",
             color: "#fb5607"
         },
         {
-            id: 14,
+            id: 15,
             name: "Razonamiento Matemático",
             description: "Problemas lógicos, secuencias, analogías y patrones.",
             icon: "fas fa-puzzle-piece",
             color: "#3d405b"
         },
         {
-            id: 15,
+            id: 16,
             name: "Razonamiento Verbal",
             description: "Sinónimos, antónimos, analogías verbales y comprensión.",
             icon: "fas fa-comment-alt",
             color: "#588157"
         },
         {
-            id: 16,
+            id: 17,
             name: "Trigonometría",
             description: "Triángulos, funciones trigonométricas, identidades y aplicaciones.",
             icon: "fas fa-shapes",
