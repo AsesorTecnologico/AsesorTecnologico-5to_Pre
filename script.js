@@ -360,23 +360,23 @@ const coursesData = {
                 17: "https://drive.google.com/drive/folders/1zEpsFqZamQZWaUbmqM2RcLUjg9j-Td2M?usp=drive_link"
             },
             2026: {
-                1: "https://drive.google.com/drive/folders/1QT7ddkZGdNwFwemR3xvI1Kkf9BLLl-5e?usp=drive_link",//alg
-                2: "https://drive.google.com/drive/folders/1TT75o2MXRO8HRxzDneH-hHft9IYHlZDS?usp=drive_link",//arit
-                3: "https://drive.google.com/drive/folders/1x1YlUzSO8Z_Pd6IDbpVviDzvUP2U6b5M?usp=drive_link",//bio
-                4: "https://drive.google.com/drive/folders/1IEVLyUoKUjwCXVBAAigMx8ndFv1X5ffq?usp=drive_link",//eco
-                5: "https://drive.google.com/drive/folders/1h5xIxHTCP93syh_I6SuviD3gcKd8zR8S?usp=drive_link",//fis
-                6: "https://drive.google.com/drive/folders/1_9bz7nxVq9sUnvtUxs4I6G_wA0anqlOH?usp=drive_link",//geo
-                7: "https://drive.google.com/drive/folders/1-p0jJDneXGvz8pehdSl2m5j-fJRPjusb?usp=drive_link",//gmt
-                8: "https://drive.google.com/drive/folders/1nUuemymXvinffAOeY2bgGheJZ5joZEif?usp=drive_link",//hp
-                9: "https://drive.google.com/drive/folders/1Mw2K47KGuxJ56n9a-oxnujMGtTwD44zS?usp=drive_link",//hu
-                10: "https://drive.google.com/drive/folders/1l1oGApaATBG4zHwHnJLKhmT1ej4G-OXh?usp=drive_link",//ing
-                11: "https://drive.google.com/drive/folders/1wam4OiYCvwZ_S8er7bmvPFiW7uBBpX9V?usp=drive_link",//len
-                12: "https://drive.google.com/drive/folders/1mwtUak4VE1w3DqdDZZbMtypINsPQl31j?usp=drive_link",//lit
-                13: "https://drive.google.com/drive/folders/1xxzogZWW3r8hEWtpIJrTQMMTaCDmOE58?usp=drive_link",//psi
-                14: "https://drive.google.com/drive/folders/1pzGL1AzMhz9gZZv1NBvcZdN7gZMB_d0Z?usp=drive_link",//qui
-                15: "https://drive.google.com/drive/folders/1lCdVShmMagKp_WQVexWYsPHbJXOd2XyR?usp=drive_link",//rm
-                16: "https://drive.google.com/drive/folders/1dzV-thvGemr5yLz6NeIIMvk_7LmoUTYr?usp=drive_link",//rv
-                17: "https://drive.google.com/drive/folders/1CfBLoRfVFa5D_aniyz5RPsIB_6KPoHLm?usp=drive_link"//tri
+                1: "https://drive.google.com/drive/folders/1LamgjRkhEfAZHJhaUYVKd0EP1Xr584Lg?usp=drive_link",//alg
+                2: "https://drive.google.com/drive/folders/1hX2-xFG8Kt8b2ZMU-nY5W6-PjQlrvidI?usp=drive_link",//arit
+                3: "https://drive.google.com/drive/folders/1cn8tYK73CgzUZpwFnKT7DSyjzFDDlJUe?usp=drive_link",//bio
+                4: "https://drive.google.com/drive/folders/1Rf9TdZa-5sXAejNS8AO3HAJr3stqThbY?usp=drive_link",//eco
+                5: "https://drive.google.com/drive/folders/1X5n090RxF-2gSzo5clRmhiTCI6GDdpBY?usp=drive_link",//fis
+                6: "https://drive.google.com/drive/folders/1RWXVrYnNsyNidqz2hozpSSb47eLv2Kru?usp=drive_link",//geo
+                7: "https://drive.google.com/drive/folders/1vURmI6fDCgiXYRxVD-QDenMBpeYwgQf6?usp=drive_link",//gmt
+                8: "https://drive.google.com/drive/folders/1RGhsFigCUFWaMTSEW3ynQmu5lGTiSfJA?usp=drive_link",//hp
+                9: "https://drive.google.com/drive/folders/159Deecrr22RM7DXp0zTNk1VYTWmISII9?usp=drive_link",//hu
+                10: "https://drive.google.com/drive/folders/1GfmInQSEYJ6oAPtlnEwzcGE0dzElD-X1?usp=drive_link",//ing
+                11: "https://drive.google.com/drive/folders/1FMH5yeiZpCebhLy--mGatXNVhz5Y0M78?usp=drive_link",//len
+                12: "https://drive.google.com/drive/folders/1pJMbp0kCbJJEEApM4Kbl5DtA1iqwKNEj?usp=drive_link",//lit
+                13: "https://drive.google.com/drive/folders/1Q2h85YbUwUko9tjYHfl2fULpW-m8sYgw?usp=drive_link",//psi
+                14: "https://drive.google.com/drive/folders/1JeuOPBxSQkSxoNBtJCMHscgDWxiILRC1?usp=drive_link",//qui
+                15: "https://drive.google.com/drive/folders/1xcmLwjehJm8QurJvG1gmlgCLsqKsjK6D?usp=drive_link",//rm
+                16: "https://drive.google.com/drive/folders/1P8nTmBJBYNBTYSlRyAhCvTa19gSRm_CS?usp=drive_link",//rv
+                17: "https://drive.google.com/drive/folders/1-bMRckb8mzVlDKuuEHIjDIoqTu1t2VxD?usp=drive_link"//tri
             }
         },
         "tomo-vii": {
@@ -400,23 +400,23 @@ const coursesData = {
                 17: "https://drive.google.com/drive/folders/18Z9d6K2SPhbnydWg6CE-VMstWs9WDUus?usp=drive_link"
             },
             2026: {
-                1: "https://drive.google.com/drive/folders/10E7Yx27Q9D1R9JUw_O3A59rdG5puZuRO?usp=drive_link",
-                2: "https://drive.google.com/drive/folders/1Gzo1YRQg_Q9DwLAg4YhafMvIW3neCbUG?usp=drive_link",
-                3: "https://drive.google.com/drive/folders/1MGBqCKN2V8zBnNHTWEG1Ntzxa19hQcbf?usp=drive_link",
-                4: "https://drive.google.com/drive/folders/1fFXTxajHY1Cay0GhggXi8u-EPPrC5g_S?usp=drive_link",
-                5: "https://drive.google.com/drive/folders/1qdb-9Mmx8lX1nhF4wft8tja9IABeGo_e?usp=drive_link",
-                6: "https://drive.google.com/drive/folders/1oOdvcBEMjrZggGWpHnU9hY7AlHnczH2R?usp=drive_link",
-                7: "https://drive.google.com/drive/folders/1CZR49lYLGb5Dc-9IKDJFKZpqTE_1MmmV?usp=drive_link",
-                8: "https://drive.google.com/drive/folders/1T9xTvmSUs7-P_bSOJDXH47quwx68M-6Q?usp=drive_link",
-                9: "https://drive.google.com/drive/folders/1pRByjQaNXRg85Hj5B9yIIxxtzEAUY2E1?usp=drive_link",
-                10: "https://drive.google.com/drive/folders/1v2Llt35g3XaNxMg5SYPC0nItCAxI6OX1?usp=drive_link",
-                11: "https://drive.google.com/drive/folders/1o2kvwLQI3rH53aKaxmA8m8ehTDeia-Tr?usp=drive_link",
-                12: "https://drive.google.com/drive/folders/16KAM2TQNJVJ_QNfqs98afTlRqnvV25Z8?usp=drive_link",
-                13: "https://drive.google.com/drive/folders/1hmxiHNLTLSt0_6ggJ08UWO9JMLQy8qnZ?usp=drive_link",
-                14: "https://drive.google.com/drive/folders/1ANrTdCEJ0XoULJzpzoW5kTJjC7PvE-K1?usp=drive_link",
-                15: "https://drive.google.com/drive/folders/1js4VXP4ThN7x3ucdHoZEdjRqbtEnoRVy?usp=drive_link",
-                16: "https://drive.google.com/drive/folders/1Bx6jg-HvBp3tsfeSx0S8Xc2Neh_X71ZZ?usp=drive_link",
-                17: "https://drive.google.com/drive/folders/16sn-pxKdY4UGB8s5wJVUZIoumMT534GM?usp=drive_link"
+                1: "https://drive.google.com/drive/folders/1QT7ddkZGdNwFwemR3xvI1Kkf9BLLl-5e?usp=drive_link",//alg
+                2: "https://drive.google.com/drive/folders/1TT75o2MXRO8HRxzDneH-hHft9IYHlZDS?usp=drive_link",//arit
+                3: "https://drive.google.com/drive/folders/1x1YlUzSO8Z_Pd6IDbpVviDzvUP2U6b5M?usp=drive_link",//bio
+                4: "https://drive.google.com/drive/folders/1IEVLyUoKUjwCXVBAAigMx8ndFv1X5ffq?usp=drive_link",//eco
+                5: "https://drive.google.com/drive/folders/1h5xIxHTCP93syh_I6SuviD3gcKd8zR8S?usp=drive_link",//fis
+                6: "https://drive.google.com/drive/folders/1_9bz7nxVq9sUnvtUxs4I6G_wA0anqlOH?usp=drive_link",//geo
+                7: "https://drive.google.com/drive/folders/1-p0jJDneXGvz8pehdSl2m5j-fJRPjusb?usp=drive_link",//gmt
+                8: "https://drive.google.com/drive/folders/1nUuemymXvinffAOeY2bgGheJZ5joZEif?usp=drive_link",//hp
+                9: "https://drive.google.com/drive/folders/1Mw2K47KGuxJ56n9a-oxnujMGtTwD44zS?usp=drive_link",//hu
+                10: "https://drive.google.com/drive/folders/1l1oGApaATBG4zHwHnJLKhmT1ej4G-OXh?usp=drive_link",//ing
+                11: "https://drive.google.com/drive/folders/1wam4OiYCvwZ_S8er7bmvPFiW7uBBpX9V?usp=drive_link",//len
+                12: "https://drive.google.com/drive/folders/1mwtUak4VE1w3DqdDZZbMtypINsPQl31j?usp=drive_link",//lit
+                13: "https://drive.google.com/drive/folders/1xxzogZWW3r8hEWtpIJrTQMMTaCDmOE58?usp=drive_link",//psi
+                14: "https://drive.google.com/drive/folders/1pzGL1AzMhz9gZZv1NBvcZdN7gZMB_d0Z?usp=drive_link",//qui
+                15: "https://drive.google.com/drive/folders/1lCdVShmMagKp_WQVexWYsPHbJXOd2XyR?usp=drive_link",//rm
+                16: "https://drive.google.com/drive/folders/1dzV-thvGemr5yLz6NeIIMvk_7LmoUTYr?usp=drive_link",//rv
+                17: "https://drive.google.com/drive/folders/1CfBLoRfVFa5D_aniyz5RPsIB_6KPoHLm?usp=drive_link"//tri
             }
         },
         "tomo-viii": {
